@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# distribution
+/dist/main*
+
+# misc
+.vscode
+package-lock.json*
+__generated__/
